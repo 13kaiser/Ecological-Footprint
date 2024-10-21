@@ -1,4 +1,5 @@
 Socioeconomic Status Mostly Outweighs Psychological Factors in Predicting Individual Ecological Footprints 
+
 This repository contains the data and code used in the research project examining the relationship between socioeconomic status (SES), psychological factors, and individual ecological footprints in six G7 countries, as outlined in the article submitted to PNAS.
 
 Project Overview
